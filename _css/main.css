@@ -87,7 +87,7 @@ header,main,footer {
     padding: 0 2em;
 }
 header {
-    border-bottom:1px solid rgb(157,189,198);
+    border-bottom:3px solid rgb(157,189,198);
     margin-bottom: 1em;
     background: rgb(218,234,239);
 }
